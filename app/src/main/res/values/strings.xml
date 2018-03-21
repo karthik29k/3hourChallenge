@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hackerrankAssignment</string>
+    <string name="second_number_hint_text">enter second number e.g 10</string>
+    <string name="first_number_hint_text">enter number e.g 1</string>
+    <string name="title">Enter two number</string>
+    <string name="submit_button_text">Calculate Average</string>
+    <string name="save_button_text">Save Numbers</string>
+</resources>
